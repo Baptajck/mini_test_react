@@ -1,0 +1,98 @@
+{
+  "tasks": [
+    {
+      "description": "Promener son chien",
+      "isDone": true,
+      "id": 1
+    },
+    {
+      "description": "Faire les courses",
+      "isDone": false,
+      "id": 2
+    },
+    {
+      "description": "Laver la voiture",
+      "isDone": false,
+      "id": 3
+    },
+    {
+      "description": "Remplir ma todo",
+      "isDone": false,
+      "id": 4
+    },
+    {
+      "description": "Sortir les poubelles",
+      "isDone": false,
+      "id": 5
+    },
+    {
+      "description": "Manger raclette",
+      "isDone": true,
+      "id": 6
+    },
+    {
+      "description": "Ramasser les feuilles",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "description": "Sauver le monde",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "description": "Faire de l'exercice",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "description": "Ranger sa cape",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "description": "Repasser sa cape",
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "description": "Laver son épée",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "description": "Aller chez le dentiste pour un détartrage",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "description": "Donner la pâtée au chat",
+      "isDone": true,
+      "id": 14
+    },
+    {
+      "description": "Rendre visite à grand-mère",
+      "isDone": false,
+      "id": 15
+    },
+    {
+      "description": "Ne pas oublier d'acheter les bières",
+      "isDone": false,
+      "id": 16
+    },
+    {
+      "description": "Passer l'aspirateur",
+      "isDone": true,
+      "id": 17
+    },
+    {
+      "description": "Laver les fenêtres",
+      "isDone": false,
+      "id": 18
+    }
+  ],
+  "users": {
+    "username": "superman",
+    "password": "batmanetrobin"
+  }
+}
